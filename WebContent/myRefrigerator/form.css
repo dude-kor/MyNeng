@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+.center { 
+	margin: 0 auto;
+  	justify-content: center;
+  	max-width:700px;
+} 
+
+.test{
+	background:#f0efea;
+	position: absolute;
+  	right: 5px;
+  	bottom: 5px;
+  	font-size : 8px;
+  	font:67.5% "Lucida Sans Unicode", "Bitstream Vera Sans", "Trebuchet Unicode MS", "Lucida Grande", Verdana, Helvetica, sans-serif;
+}
+
+table {
+	margin: 0 auto;
+	display: flex;
+  	justify-content: left;
+  	text-align: center;
+}
+.check{width:50px;}
+.name{width:150px;}
+.amount{width:150px;}
+.unit{width:50px;}
+.freshness{width:300px;}
+.button{}
